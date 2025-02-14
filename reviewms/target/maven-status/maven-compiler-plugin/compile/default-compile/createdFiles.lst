@@ -1,0 +1,5 @@
+com/microservices/reviewms/review/ReviewService.class
+com/microservices/reviewms/review/Review.class
+com/microservices/reviewms/ReviewmsApplication.class
+com/microservices/reviewms/review/ReviewRepository.class
+com/microservices/reviewms/review/ReviewController.class
